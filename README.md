@@ -1,2 +1,2 @@
 # winver
-open-source winver.exe program written in FASM assembler
+Just winver.exe in 2KB
